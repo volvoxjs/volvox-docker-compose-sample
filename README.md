@@ -1,2 +1,2 @@
-# microphone-docker-compose-sample
-microphone.js Docker Compose sample
+# volvox-docker-compose-sample
+volvox.js Docker Compose sample
